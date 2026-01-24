@@ -1,0 +1,9 @@
+:root {
+    --primary:#08D3BB;
+}
+.bg-color {
+    background-color: var(--primary) !important;
+}
+.home {
+    color: var(--primary) !important;
+}
