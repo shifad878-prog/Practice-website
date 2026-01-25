@@ -1,9 +1,49 @@
 :root {
-    --primary:#08D3BB;
+    --primary:#1090CB;
+    --secondary: #1090CB1A;
+
 }
 .bg-color {
     background-color: var(--primary) !important;
 }
 .home {
     color: var(--primary) !important;
+}
+.bg-color:hover {
+    background-color: white !important;
+    color: var(--primary) !important;
+    border: 1px solid var(--primary);
+}
+.bg-color:focus {
+     background-color: white !important;
+    color: var(--primary) !important;
+    border: 1px solid var(--primary);
+}
+.blue {
+    color: var(--primary);
+}
+.bg-outline {
+    border:  1px solid var(--primary) !important;
+    color: var(--primary) !important;
+}
+.background-color {
+    background-color:#1090CB1A;
+}
+.border1 {
+    background-color:#EFEAFF;
+}
+.border2 {
+    background-color:#ECFFDA;
+}
+.border3 {
+    background-color: #DAE6FF;
+}
+.border4 {
+    background-color: #FFE5DA;
+}
+.bm {
+    border-bottom: 1px solid #C7C7C7;
+}
+.move{
+    top: 30% !important;
 }
