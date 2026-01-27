@@ -47,3 +47,24 @@
 .move{
     top: 30% !important;
 }
+.border5 {
+    background-color: var(--primary);
+}
+.border6 {
+    background-color:#9208D3;
+}
+.text-blue {
+    color: var(--primary);
+}
+.back-color {
+    background-color:#F4F4F4 !important;
+}
+.back-blue {
+    background-color: var(--primary);
+}
+.text-color {
+    color: var(--secondary);
+}
+.hidden {
+    overflow: hidden;
+}
